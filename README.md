@@ -1,11 +1,11 @@
 # abdurrahim-portfolio
-## Projects
+# Projects
 ### Project 1
 - Description
-- Link
+- Links
 ### Project 2
 - Description
-- Link
+- Links
 
 # Education
 - University
